@@ -5,9 +5,10 @@
 ## How to Use This Program
 
 1. **Go to the [exe file](https://github.com/Noahscratch493/Scratch-2-Legacy/blob/main/Scratch_2_legacy.exe)** and download the program.
+2. When you open it, It'll Display [This](https://raw.githubusercontent.com/Noahscratch493/Scratch-2-Legacy/refs/heads/main/images/1.png). Click More info and then Run anyway to open the program.
 3. **Open the exe file** to launch the Scratch 2.0 editor.
 
-   > **Note:** The editor may take a few seconds to load. It may appear unresponsive for about 5 seconds, but after that, it will work as expected.
+   > **Note:** The editor may take a few seconds to load. It might appear unresponsive but after that, it will work as expected.
 
 For the best experience, **maximize the window** to fullscreen.
 
