@@ -1,5 +1,0 @@
-Scratch 2.0 License Notice
-
-Scratch 2.0 is an open-source project maintained by the MIT Media Lab. It is licensed under the [Scratch License](https://www.scratch.mit.edu/license/).
-
-Please refer to the official Scratch website for the complete terms of use: https://www.scratch.mit.edu/license/
