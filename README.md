@@ -18,8 +18,9 @@ Using the original, official **Scratch 2.0 Offline Editor** SB2 file ensures tha
 
 The **Scratch 2.0 Offline Editor** downloads from the official Scratch website are currently unavailable. This project exists to fill that gap by offering an easy-to-use, standalone **.exe** file that lets users run **Scratch 2.0** without needing Adobe AIR or any other dependencies.
 
-- **No installation required**: Simply download and run the `.exe` file.
-- **Offline editing**: No need for an internet connection to work on your Scratch 2.0 projects.
+- Install Flash Player 11 (In a Virtual Machine if you can and also Ruffle won't work)
+- Download the `Scratch-2-legacy.swf`
+- Open `Scratch-2-legacy.swf` in it
 
 If you're unable to download the official **Scratch 2.0 Offline Editor** or if you're looking for a lightweight, alternative way to work with your older Scratch 2.0 projects, this project provides the perfect solution.
 
@@ -41,7 +42,7 @@ If you'd like to create your own **Scratch 2 Legacy** editor, you can use the **
 
 ### **Disclaimer**
 
-This project uses an older version of **Adobe Flash Player 11**. **Adobe Flash** was officially discontinued in December 2020, and **Flash Player** no longer receives security updates. Running this program **poses security risks** to your system. For safety, consider running the program in a **virtual machine** or **isolated environment** to minimize exposure to vulnerabilities.
+This project uses an older version of Adobe Flash Player 11. Adobe Flash was officially discontinued in December 2020, and Flash Player no longer receives security updates. Running this program poses security risks to your system. For safety, consider running the program in a virtual machine or isolated environment to minimize exposure to vulnerabilities.
 
 ---
 
