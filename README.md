@@ -1,52 +1,53 @@
-# **Scratch 2 Legacy**
+# Scratch 2 Legacy
 
-**Scratch 2 Legacy** provides a lightweight standalone version of the classic Scratch 2.0 editor. Many users have experienced issues downloading the **Scratch 2.0 Offline Editor** from the official website, as the download links are currently broken. **Scratch 2 Legacy** is here to provide an alternative way for users to continue editing and creating Scratch 2.0 projects offline, without relying on outdated software or broken links.
+This project allows you to run **Scratch 2 Legacy** using the **Ruffle** Flash player emulator, making it possible to run and interact with Scratch 2 projects even though Flash is no longer supported in most modern browsers.
 
-## **How This Was Made**
+## Features
 
-The **Scratch 2 Legacy** editor was created by using the **default SB2 file** from the **official Scratch 2.0 Offline Editor** and converting it into an **SWF** file using a third-party **SB2 to SWF converter** that was downloaded from the internet. Here's the process:
+- **Autoplay Support**: The project automatically starts playing the Scratch 2 Legacy SWF file when loaded.
+- **Responsive Design**: The Scratch 2 player will fill the entire browser window.
+- **Full-Screen Experience**: The player scales according to your browser's size.
 
-1. The **default SB2 file** from the **Scratch 2.0 Offline Editor** (the version you would normally use on your computer) was used as the base project.
-2. The **SB2 to SWF converter** was then used to convert this file into **SWF** format. The converter includes an option called **"Enable Editor"**, which allows the **Scratch 2.0 editor** to run within the SWF file.
-3. The resulting **SWF file** was packaged into a **standalone executable (.exe)** file, which opens the **Scratch 2.0 editor** in a lightweight, offline form.
+## Start Scratching
 
-Using the original, official **Scratch 2.0 Offline Editor** SB2 file ensures that the **Scratch 2 Legacy** editor provides the same experience as the original editor, but in a much more convenient, standalone package.
+To start scratching in Scratch 2, simply visit the following link in your browser:
 
----
+[Start Scratching in Scratch 2](https://noahscratch493.github.io/Scratch-2-Legacy)
 
-## **Why This Project Exists**
+This will load **Scratch 2 Legacy** in your browser, powered by the **Ruffle** Flash emulator.
 
-The **Scratch 2.0 Offline Editor** downloads from the official Scratch website are currently unavailable. This project exists to fill that gap by offering an easy-to-use, standalone **.exe** file that lets users run **Scratch 2.0** without needing Adobe AIR or any other dependencies.
+## Old Method (Not Recommended)
 
-If you're unable to download the official **Scratch 2.0 Offline Editor** or if you're looking for a lightweight, alternative way to work with your older Scratch 2.0 projects, this project provides the perfect solution.
+**Warning**: This is the **old method**, and it is **no longer recommended**. Flash Player 11 is outdated and has been discontinued. This method comes with significant security risks, as Flash is no longer supported by most browsers or Adobe. **It is highly advised to use Ruffle instead**.
 
----
-## **How to Install**
-- Install Flash Player 11 (In a Virtual Machine if you can and also Ruffle won't work)
-- Download the `Scratch-2-legacy.swf`
-- Open `Scratch-2-legacy.swf` in it
+However, if you absolutely must use Flash Player 11 for any reason, you can download the standalone installer from the link below. Please note that we **do not own the site** and cannot guarantee the safety or integrity of the download.
 
-____
-## **How to Create Your Own Version**
+1. Download **Flash Player 11** Standalone Installer from [this link](https://newappzone.com/cdn/swftoexe/flashplayer11_3r300_273_win_sa.exe).
+2. Install Flash Player 11 on your machine.
+3. Open the Scratch 2 Legacy SWF file by visiting [Scratch 2 Legacy SWF](https://noahscratch493.github.io/Scratch-2-Legacy/Scratch_2_legacy.swf) in the Flash Player 11 standalone application.
 
-If you'd like to create your own **Scratch 2 Legacy** editor, you can use the **SB2 to SWF converter**. Here's how to do it:
+**Important**: Flash Player 11 is insecure and unsupported. For a safer experience, we recommend using the Ruffle method outlined above.
 
-1. **Download the SB2 to SWF Converter**: You can download the tool from this [**link**](https://asentientbot.github.io/converter/Scratch%20Converter%20v3.8.zip).
-   
-2. **Convert the SB2 File**: Use the converter to convert the default **SB2** file from the **Scratch 2.0 Offline Editor** into **SWF** format. 
+## How to Use
 
-3. **Enable the Editor**: When using the converter, make sure to enable the **"Enable Editor"** option. This allows the **Scratch 2.0 editor** to run within the SWF file.
+1. Clone or download this repository to your local machine.
+2. Open the HTML file in your web browser.
+3. The Scratch 2 Legacy SWF file will automatically load and begin playing.
+4. Enjoy creating with Scratch 2!
 
-> **Disclaimer:** Please note that this converter is a third-party tool, and you are using it at your own risk. Ensure the tool is safe by scanning it for any potential security risks. The converter is not affiliated with the official Scratch project, and its usage may vary.
+## Development
 
----
+If you want to modify or contribute to this project, feel free to:
 
-### **Disclaimer**
+1. Fork this repository.
+2. Make changes.
+3. Submit a pull request with your contributions.
 
-This project uses an older version of Adobe Flash Player 11. Adobe Flash was officially discontinued in December 2020, and Flash Player no longer receives security updates. Running this program poses security risks to your system. For safety, consider running the program in a virtual machine or isolated environment to minimize exposure to vulnerabilities.
+## Notes
 
----
+- **Ruffle** is a Flash emulator that runs SWF files in modern browsers without needing Flash Player.
+- If the project doesn't autoplay, make sure your browser is configured to allow autoplay for embedded content.
 
-## **Credits**
+## License
 
-Scratch is developed by the **Lifelong Kindergarten Group** at the **MIT Media Lab**. For more information, visit [http://scratch.mit.edu](http://scratch.mit.edu).
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
