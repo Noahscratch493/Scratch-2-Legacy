@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset='utf8'>
+        <title>Scratch 2 Legacy</title>
+        <style>
+            /* Ensure the body and html elements fill the entire window */
+            html, body {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+
+            /* The container will take up the full width and height of the page */
+            #ruffle {
+                width: 100%;
+                height: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Container for the Ruffle player -->
+        <div id="ruffle"></div>
+
+        <script>
+            // Ensure RufflePlayer is available
+            window.RufflePlayer = window.RufflePlayer || {};
+
+            window.addEventListener("DOMContentLoaded", () => {
+                // Initialize the newest version of Ruffle
+                let ruffle = window.RufflePlayer.newest();
+
+                // Create the player
+                let player = ruffle.createPlayer();
+
+                // Get the container where the player will be added
+                let container = document.getElementById("ruffle");
+
+                // Append the player to the container
+                container.appendChild(player);
+
+                // Set the width and height of the player to fill the container (100% of the page)
+                player.style.width = "100%";
+                player.style.height = "100%";
+
+                // Load the Scratch 2 Legacy SWF file
+                player.load("https://noahscratch493.github.io/Scratch-2-Legacy/Scratch_2_legacy.swf");
+
+                // Wait until the SWF is fully loaded, then trigger play manually
+                player.addEventListener("load", () => {
+                    player.play();  // Manually start the SWF
+                });
+            });
+        </script>
+
+        <!-- Correct script for Ruffle -->
+        <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    </body>
+</html>
