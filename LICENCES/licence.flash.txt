@@ -1,7 +1,0 @@
-Flash Player 11 License Notice
-
-The Flash Player used in this program is based on Adobe Flash Player 11, a proprietary software previously developed by Adobe Systems, Inc. Flash Player 11 is no longer supported by Adobe as of December 31, 2020, and is deprecated in modern operating systems and browsers.
-
-Flash Player 11 License Information:
-- Copyright (c) 2005-2020 Adobe Systems, Inc.
-- Licensed under Adobe's proprietary license terms, no longer supported after December 31, 2020.
