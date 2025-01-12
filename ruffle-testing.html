@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ruffle SWF Test</title>
+</head>
+<body>
+  <div id="ruffle-player" style="width: 1000px; height: 800px;">
+    <script src="https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle"></script>
+    <script>
+      var ruffle = RufflePlayer.new({
+        id: 'ruffle-player',
+        width: 1000,
+        height: 800
+      });
+      ruffle.load('https://ruffle.rs/demo/logo-anim.swf');
+    </script>
+  </div>
+</body>
+</html>
