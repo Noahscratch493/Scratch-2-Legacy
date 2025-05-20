@@ -52,6 +52,12 @@
                     player.play();  // Manually start the SWF
                 });
             });
+
+            // Warn user if they try to leave the page
+            window.addEventListener("beforeunload", function (e) {
+                e.preventDefault(); // Required for some browsers
+                e.returnValue = "Your project might not be saved."; // Show this message in the dialog
+            });
         </script>
 
         <!-- Correct script for Ruffle -->
