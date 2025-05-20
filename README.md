@@ -22,7 +22,7 @@ This will load **Scratch 2 Legacy** in your browser, powered by the **Ruffle** F
 
 However, if you absolutely must use Flash Player 11 for any reason, you can download the standalone installer from the link below. Please note that we **do not own the site** and cannot guarantee the safety or integrity of the download.
 
-1. Download **Flash Player 11** Standalone Installer from [this link](https://newappzone.com/cdn/swftoexe/flashplayer11_3r300_273_win_sa.exe).
+1. Download **Flash Player 11** Standalone Installer from [this link](https://archive.org/details/adobe_flash_player_10.1.102.64).
 2. Install Flash Player 11 on your machine.
 3. Open the Scratch 2 Legacy SWF file by visiting [Scratch 2 Legacy SWF](https://noahscratch493.github.io/Scratch-2-Legacy/Scratch_2_legacy.swf) in the Flash Player 11 standalone application.
 
