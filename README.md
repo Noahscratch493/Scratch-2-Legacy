@@ -18,15 +18,15 @@ This will load **Scratch 2 Legacy** in your browser, powered by the **Ruffle** F
 
 ## Old Method (Not Recommended)
 
-**Warning**: This is the **old method**, and it is **no longer recommended**. Flash Player 11 is outdated and has been discontinued. This method comes with significant security risks, as Flash is no longer supported by most browsers or Adobe. **It is highly advised to use Ruffle instead**.
+**Warning**: This is the **old method**, and it is **no longer recommended**. Flash Player 10 is outdated and has been discontinued. This method comes with significant security risks, as Flash is no longer supported by most browsers or Adobe. **It is highly advised to use Ruffle instead**.
 
-However, if you absolutely must use Flash Player 11 for any reason, you can download the standalone installer from the link below. Please note that we **do not own the site** and cannot guarantee the safety or integrity of the download.
+However, if you absolutely must use Flash Player 10 for any reason, you can download the standalone installer from the link below. Please note that we **do not own the site** and cannot guarantee the safety or integrity of the download.
 
-1. Download **Flash Player 11** Standalone Installer from [this link](https://archive.org/download/standaloneflashplayers/fp/fp_10/10.0.12.36/flashplayer10r12_36_win_sa.exe).
-2. Install Flash Player 11 on your machine.
-3. Open the Scratch 2 Legacy SWF file by visiting [Scratch 2 Legacy SWF](https://noahscratch493.github.io/Scratch-2-Legacy/Scratch_2_legacy.swf) in the Flash Player 11 standalone application.
+1. Download **Flash Player 10** Standalone Installer from [this link](https://archive.org/download/standaloneflashplayers/fp/fp_10/10.0.12.36/flashplayer10r12_36_win_sa.exe).
+2. Install Flash Player 10 on your machine.
+3. Open the Scratch 2 Legacy SWF file by visiting [Scratch 2 Legacy SWF](https://noahscratch493.github.io/Scratch-2-Legacy/Scratch_2_legacy.swf) in the Flash Player 10 standalone application.
 
-**Important**: Flash Player 11 is insecure and unsupported. For a safer experience, we recommend using the Ruffle method outlined above.
+**Important**: Flash Player 10 is insecure and unsupported. For a safer experience, we recommend using the Ruffle method outlined above.
 
 ## How to Use
 
