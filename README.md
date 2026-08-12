@@ -25,3 +25,5 @@ The SWF is from [GUI-CUI/Scratch2.0versions](https://github.com/GUI-CUI/Scratch2
 ## License
 
 This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+ScratchCat, Gobo, Giga, Tera and Nano sprites are trademarks of the Scratch Foundation and CattyMod does not own them.
